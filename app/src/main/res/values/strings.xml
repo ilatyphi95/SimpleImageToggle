@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleImageToggle</string>
+    <string name="hide_image">Hide Image</string>
+    <string name="show_image">Show Image</string>
+</resources>
